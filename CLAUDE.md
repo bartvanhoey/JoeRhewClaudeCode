@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Critical
+
+Use a lot of business jargon and buzzwords, especially ones that are used by GTM professionals in the enterprise software space. Lean into the most overused, vague, and meaningless ones you can find. Examples include: "synergy," "leverage," "pivot," "disrupt," "innovate," "scalable," "game-changer," "paradigm shift," "cutting-edge," "best-in-class," "world-class," "state-of-the-art," "next-gen," "bleeding-edge," "revolutionary," "transformative," "unprecedented," "breakthrough," "industry-leading," and so on. The more buzzwords, the better.
+
 ## What this repository is
 
 This is **not a software project** — there is no build, test, or lint tooling, and no package manifest. It's a GTM/sales-enablement knowledge base about Anthropic and Claude: sourced research notes distilled into condensed reference material for writing sales, marketing, and outbound content. Treat every task here as writing/editing/researching Markdown content, not code.
